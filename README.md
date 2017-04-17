@@ -1,7 +1,7 @@
 # test coverage for  [merge-stream (v1.0.1)](https://github.com/grncdr/merge-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-merge-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-merge-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-merge-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-merge-stream)
 #### Create a stream that emits events from multiple other streams
 
-[![NPM](https://nodei.co/npm/merge-stream.png?downloads=true)](https://www.npmjs.com/package/merge-stream)
+[![NPM](https://nodei.co/npm/merge-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/merge-stream)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-merge-stream/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-merge-stream/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-merge-stream/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-merge-stream/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-merge-stream/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-merge-stream/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-merge-stream/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-merge-stream/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-merge-stream/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-merge-stream/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-merge-stream%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-merge-stream/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-merge-stream/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-merge-stream/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-merge-stream/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-merge-stream%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-merge-stream/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-merge-stream/build/test-report.html](https://npmtest.github.io/node-npmtest-merge-stream/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-merge-stream/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-merge-stream/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-merge-stream/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-merge-stream/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-merge-stream/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-merge-stream/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-merge-stream/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Stephen Sugden",
-        "email": "me@stephensugden.com"
+        "name": "Stephen Sugden"
     },
     "bugs": {
         "url": "https://github.com/grncdr/merge-stream/issues"
@@ -54,17 +59,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "grncdr",
-            "email": "glurgle@gmail.com"
+            "name": "grncdr"
         },
         {
-            "name": "shinnn",
-            "email": "snnskwtnb@gmail.com"
+            "name": "shinnn"
         }
     ],
     "name": "merge-stream",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/grncdr/merge-stream.git"
