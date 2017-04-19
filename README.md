@@ -1,4 +1,7 @@
-# test coverage for  [merge-stream (v1.0.1)](https://github.com/grncdr/merge-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-merge-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-merge-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-merge-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-merge-stream)
+# npmtest-merge-stream
+
+#### test coverage for  [merge-stream (v1.0.1)](https://github.com/grncdr/merge-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-merge-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-merge-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-merge-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-merge-stream)
+
 #### Create a stream that emits events from multiple other streams
 
 [![NPM](https://nodei.co/npm/merge-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/merge-stream)
